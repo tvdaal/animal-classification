@@ -1,2 +1,1 @@
-# animal-detection
-Detecting and classifying animals from images
+Work in progress!
