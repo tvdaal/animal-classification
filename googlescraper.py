@@ -80,7 +80,7 @@ class GoogleScraper():
             pass # print(f"ERROR: Could not save {url} - {e}")
 
     def scrape_images(self, query: str, folder: str):
-        print(f"Searching for {query}...")
+        # print(f"Searching for {query}...")
 
         if not os.path.exists(folder):
             os.makedirs(folder)
